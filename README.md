@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in quantative trading and macroeconomic forecasting (debt cycles, forex, capital flows)
-- 🌱 I’m currently learning about options pricing
+- 🌱 I’m currently learning about options pricing and building a blog
 - 💞️ I’m looking to collaborate on C++ quantative finance tools
 - 📫 How to reach me zgruber2023@gmail.com
 
