@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in quantative trading and macroeconomic forecasting (debt cycles, forex, capital flows)
+- 👀 I’m interested in quantitative trading and macroeconomic forecasting (debt cycles, forex, capital flows)
 - 🌱 I’m currently learning about options pricing and building a blog
 - 📫 How to reach me zgruber2023@gmail.com
 
