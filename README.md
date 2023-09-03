@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in trading and global macro
+- 👀 I’m interested in global macro
 - 🌱 I’m currently learning about treasury inflation-protected securities
 - 📫 How to reach me zgruber2023@gmail.com
 
