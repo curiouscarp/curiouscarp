@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in global macro
-- 🌱 I’m currently learning about treasury inflation-protected securities
+- 🌱 I’m currently learning more about residential real estate trends
 - 📫 How to reach me zgruber2023@gmail.com
 
 <!---
